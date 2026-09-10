@@ -1,0 +1,2 @@
+# 2025-29_Piyush_Parashar_25SCS1003000911_3rd_Semester_2CSE9
+This repository houses deliverables for my Web Developer Internship at Sieve Capital (June–August 2026). It includes my technical report, presentation slides, and completion certificate. Core tasks involved building responsive UI components using HTML5, CSS3, and JavaScript, debugging via DevTools, and managing version control with Git/GitHub.
