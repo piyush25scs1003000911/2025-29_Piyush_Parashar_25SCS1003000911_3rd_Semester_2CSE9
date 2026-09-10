@@ -5,9 +5,9 @@
 ---
 
 ## 📁 Repository Contents
-* **`Internship_Report.pdf`**: The complete 11-page technical report detailing system architecture, project scope, weekly Agile sprints, and development methodologies[cite: 1].
-* **`Presentation.pptx`**: The final summary slide deck highlighting key milestones, core tasks, and project outcomes.
-* **`Internship_Certificate.pdf`**: The official, verified Internship Completion Certificate issued by Sieve Capital (Ref: `#SC/INT/2026/031`)[cite: 1].
+* **`Internship Report.pdf`**: The complete 11-page technical report detailing system architecture, project scope, weekly Agile sprints, and development methodologies[cite: 1].
+* **`Internship PPT.pdf`**: The final summary slide deck highlighting key milestones, core tasks, and project outcomes.
+* **`Internship Certificate.pdf`**: The official, verified Internship Completion Certificate issued by Sieve Capital (Ref: `#SC/INT/2026/031`)[cite: 1].
 
 ---
 
